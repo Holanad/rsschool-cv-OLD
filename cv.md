@@ -92,6 +92,7 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br>
 [https://academium-ivf.net](https://academium-ivf.net)
 ## Education ##
-2021 - **RS School JS Stage#0** - Now
+2021 - **RS School JS Stage#0:** Now
+<br/>
 2020 - **WEBDEV SUMMIT:** [Certificate](https//i.imgur.com/DNLS5qK.png)
 
