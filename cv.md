@@ -1,6 +1,6 @@
 #  Resume #
 ## About me ##
-![My photo](https://raw.githubusercontent.com/Holanad/rsschool-cv/gh-pages/avatar.jpg" width="200")
+![My photo](https://raw.githubusercontent.com/Holanad/rsschool-cv/gh-pages/avatar.jpg)
 <br/>
 **Name:** Vladislav Volkov
 <br/>
@@ -34,7 +34,7 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 + CSS
 <br/>
 + Javasctipt 
-<!---->
+<ul/>
 <br/>
 <br/>
 **Libraries and Frameworks**
@@ -43,6 +43,7 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br/>
 + Bootstrap 4
 <!---->
+
 <br/>
 <br/>
 **Tools**
@@ -51,8 +52,7 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br/>
 + Bower
 <br/>
-+ Git
-<!---->
++ Git\n\n
 <br/>
 <br/>
 **Graphic editors**
@@ -60,7 +60,6 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 + Photoshop
 <br/>
 + Figma
-<!---->
 <br/>
 <br/>
 **Management system**
@@ -68,4 +67,3 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 + MODX
 <br/>
 + WordPress
-<!---->
