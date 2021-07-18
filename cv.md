@@ -26,40 +26,30 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br/>
 ## Skills ##
 **Languages**
-<br/>
 <ul>
 <li>Markdown</li>
 <li>HTML</li>
 <li>CSS</li>
 <li>Javasctipt</li> 
 </ul>
-<br/>
-<br/>
 **Libraries and Frameworks**
 <ul>
 <li>jQuery</li>
 <li>Bootstrap 4</li>
 </ul>
-<br/>
-<br/>
 **Tools**
-<br/>
-+ SASS
-<br/>
-+ Bower
-<br/>
-+ Git\n\n
-<br/>
-<br/>
+<ul>
+<li>SASS</li>
+<li>Bower</li>
+<li>Git</li>
+</ul>
 **Graphic editors**
-<br/>
-+ Photoshop
-<br/>
-+ Figma
-<br/>
-<br/>
+<ul>
+<li>Photoshop</li>
+<li>Figma</li>
+</ul>
 **Management system**
-<br/>
-+ MODX
-<br/>
-+ WordPress
+<ul>
+<li>MODX</li>
+<li>WordPress</li>
+</ul>
