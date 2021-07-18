@@ -1,7 +1,6 @@
 #  Resume #
 ## About me ##
-<br/>
-![My photo](https://github.com/Holanad/rsschool-cv/blob/gh-pages/avatar.jpg =200x)
+![My photo](https://raw.githubusercontent.com/Holanad/rsschool-cv/gh-pages/avatar.jpg =200x)
 <br/>
 **Name:** Vladislav Volkov
 <br/>
@@ -16,7 +15,6 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br/>
 <br/>
 ## Contact ##
-<br/>
 **Gmail:** [volkov99.at@gmail.com](mailto:volkov99.at@gmail.com)
 <br/>
 **Telegram:** [https://t.me/volkov99](https://t.me/volkov_99)
@@ -29,19 +27,40 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 ## Skills ##
 **Languages**
 <br/>
-+Markdown
++ Markdown
 <br/>
-+HTML
++ HTML
 <br/>
-+CSS
++ CSS
 <br/>
-+Javasctipt 
++ Javasctipt 
 <br/>
 <br/>
 **Libraries and Frameworks**
 <br/>
-+jQuery
++ jQuery
 <br/>
-+Bootstrap 4
++ Bootstrap 4
 <br/>
-
+<br/>
+**Tools**
+<br/>
++ SASS
+<br/>
++ Bower
+<br/>
++ Git
+<br/>
+<br/>
+**Graphic editors**
+<br/>
++ Photoshop
+<br/>
++ Figma
+<br/>
+<br/>
+**Management system**
+<br/>
++ MODX
+<br/>
++ WordPress
