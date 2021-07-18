@@ -53,14 +53,37 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <li>MODX</li>
 <li>WordPress</li>
 </ul>
+## Sample Code ##
 ```javascript
 (function progressBar () {
-	let progressbarStatus = document.querySelector('.progressbar-status');
-	let progressbarButton = document.querySelector('button');
-	progressbarButton.addEventListener('click', function () {
-		if(progressbarButton.classList.contains('update')){
-			progressbarStatus.style.width = `${progressbarStatus.offWidth + progressbarStatus.parentElement.offsetWidth * 0.02}px`
+	let progStatus = document.querySelector('.progressbar-status');
+	let progButton = document.querySelector('button');
+	progButton.addEventListener('click', function () {
+		if(progButton.classList.contains('update')){
+			progStatus.style.width = `${progStatus.offWidth + progStatus.parentElement.offsetWidth * 0.02}px`
 		}
 	})
 }());
 ```
+## Work experiense ##
+**Terminal** - комплексные услуги грузовых перевозок по всему миру
+<br/>
+Адаптивная вёрстка LandingPage
+<br/>
+`HTML` `CSS` `JavaScript/jQuery` `Bower` `BEM`
+<br/>
+[https://tt.ink](https://tt.ink)
+<br/>
+<br/>
+**Karton Wedding** - Свадебное агентство
+<br/>
+Адаптивная вёрстка страницы / Посадка на MODX
+<br/>
+[https://karton-wedding.ru](https://karton-wedding.ru/organizaciya-svadeb)
+<br/>
+<br/>
+**Academium** - медицинский центр репродуктивного здоровья
+<br>
+Адаптивная вёрстка / Посадка на MODX
+<br>
+[https://academium-ivf.net](https://academium-ivf.net)
