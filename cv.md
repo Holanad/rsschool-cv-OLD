@@ -1,6 +1,6 @@
 #  Resume #
 ## About me ##
-![My photo](https://raw.githubusercontent.com/Holanad/rsschool-cv/gh-pages/avatar.jpg width="200")
+![My photo](https://raw.githubusercontent.com/Holanad/rsschool-cv/gh-pages/avatar.jpg" width="200")
 <br/>
 **Name:** Vladislav Volkov
 <br/>
@@ -34,33 +34,38 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 + CSS
 <br/>
 + Javasctipt 
+<!---->
 <br/>
 <br/>
 **Libraries and Frameworks**
 <br/>
-jQuery
++ jQuery
 <br/>
-Bootstrap 4
++ Bootstrap 4
+<!---->
 <br/>
 <br/>
 **Tools**
 <br/>
-SASS
++ SASS
 <br/>
-Bower
++ Bower
 <br/>
-Git
++ Git
+<!---->
 <br/>
 <br/>
 **Graphic editors**
 <br/>
-Photoshop
++ Photoshop
 <br/>
-Figma
++ Figma
+<!---->
 <br/>
 <br/>
 **Management system**
 <br/>
-MODX
++ MODX
 <br/>
-WordPress
++ WordPress
+<!---->
