@@ -27,8 +27,21 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br/>
 <br/>
 ## Skills ##
-..*HTML
+**Languages**
 <br/>
-..*CSS
++Markdown
 <br/>
-..*Javasctipt 
++HTML
+<br/>
++CSS
+<br/>
++Javasctipt 
+<br/>
+<br/>
+**Libraries and Frameworks**
+<br/>
++jQuery
+<br/>
++Bootstrap 4
+<br/>
+
