@@ -94,5 +94,5 @@ Adaptive layout / Boarding on MODX
 ## Education ##
 2021 - **RS School JS Stage#0:** Now
 <br/>
-2020 - **WEBDEV SUMMIT:** [Certificate](https//radical.ru/lfp/c.radical.ru/c38/2107/93/d38a9500ffe8.png/hlm)
+2020 - **WEBDEV SUMMIT:** [Certificate](webdevsummit.png)
 
