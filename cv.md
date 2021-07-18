@@ -1,8 +1,6 @@
-Resume
-======
-<br/>
-About me
---------
+#  Resume #
+## About me ##
+
 **Name:** Vladislav Volkov
 <br/>
 **Birhday:** 12.09.1999
