@@ -70,7 +70,7 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br/>
 Адаптивная вёрстка LandingPage
 <br/>
-`HTML` `CSS` `JavaScript/jQuery` `Bower` `BEM`
+`HTML`   `SASS`   `JavaScript/jQuery`   `AOS.js`   `slick-carousel`   `jQuery-validator`   `intl-tel-input`   `Bower`   `BEM`   `Textolite`
 <br/>
 [https://tt.ink](https://tt.ink)
 <br/>
@@ -79,11 +79,19 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br/>
 Адаптивная вёрстка страницы / Посадка на MODX
 <br/>
+`HTML`   `SASS`   `JavaScript/jQuery`   `slick-carousel`   `Bower`   `BEM`   `MODX`
+<br/>
 [https://karton-wedding.ru](https://karton-wedding.ru/organizaciya-svadeb)
 <br/>
 <br/>
 **Academium** - медицинский центр репродуктивного здоровья
 <br>
 Адаптивная вёрстка / Посадка на MODX
+<br/>
+`HTML`   `SASS`   `JavaScript/jQuery`   `slick-carousel`   `fancybox.js`   `air-datepicker.js`   `Bower`   `BEM`   `MODX`
 <br>
 [https://academium-ivf.net](https://academium-ivf.net)
+## Education ##
+2021 - **RS School JS Stage#0** - Now
+2020 - **WEBDEV SUMMIT:** [Certificate](https//i.imgur.com/DNLS5qK.png)
+
