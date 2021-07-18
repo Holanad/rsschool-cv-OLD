@@ -1,6 +1,7 @@
 #  Resume #
 ## About me ##
-![My photo](https://github.com/Holanad/rsschool-cv/blob/gh-pages/avatar.jpg)
+<br/>
+![My photo](https://github.com/Holanad/rsschool-cv/blob/gh-pages/avatar.jpg =200x)
 <br/>
 **Name:** Vladislav Volkov
 <br/>
@@ -18,7 +19,13 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br/>
 **Gmail:** [volkov99.at@gmail.com](mailto:volkov99.at@gmail.com)
 <br/>
-**Telegram:** [https://t.me/volkov99](https://t.me/volkov99)
-
+**Telegram:** [https://t.me/volkov99](https://t.me/volkov_99)
+<br/>
+**Instagram:** [https://instagram.com/_holanad_](https://instagram.com/_holanad_)
+<br/>
+**VK:** [https://vk.com/holanad](https://vk.com/holanad)
+<br/>
+<br/>
+## Skills ##
 
  
