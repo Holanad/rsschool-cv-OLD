@@ -17,9 +17,9 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 ## Contact ##
 **Gmail:** [volkov99.at@gmail.com](mailto:volkov99.at@gmail.com)
 <br/>
-**Telegram:** [https://t.me/volkov99](https://t.me/volkov_99)
+**Telegram:** [https://t.me/volkov_99](https://t.me/volkov_99)
 <br/>
-**Instagram:** [https://instagram.com/_holanad_](https://instagram.com/_holanad_)
+**Instagram:** [https://instagram.com/holanad](https://instagram.com/_holanad_)
 <br/>
 **VK:** [https://vk.com/holanad](https://vk.com/holanad)
 <br/>
