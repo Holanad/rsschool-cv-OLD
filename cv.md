@@ -27,5 +27,8 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <br/>
 <br/>
 ## Skills ##
-
- 
+..*HTML
+<br/>
+..*CSS
+<br/>
+..*Javasctipt 
