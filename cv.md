@@ -53,7 +53,7 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <li>MODX</li>
 <li>WordPress</li>
 </ul>
-## Sample Code ##
+## Sample code ##
 ```javascript
 (function progressBar () {
 	let progStatus = document.querySelector('.progressbar-status');
