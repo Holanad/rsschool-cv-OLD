@@ -53,3 +53,14 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 <li>MODX</li>
 <li>WordPress</li>
 </ul>
+```javascript
+(function progressBar () {
+	let progressbarStatus = document.querySelector('.progressbar-status');
+	let progressbarButton = document.querySelector('button');
+	progressbarButton.addEventListener('click', function () {
+		if(progressbarButton.classList.contains('update')){
+			progressbarStatus.style.width = `${progressbarStatus.offWidth + progressbarStatus.parentElement.offsetWidth * 0.02}px`
+		}
+	})
+}());
+```
