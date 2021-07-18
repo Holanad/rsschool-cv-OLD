@@ -27,23 +27,19 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 ## Skills ##
 **Languages**
 <br/>
-+ Markdown
-<br/>
-+ HTML
-<br/>
-+ CSS
-<br/>
-+ Javasctipt 
-<ul/>
+<ul>
+<li>Markdown</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javasctipt</li> 
+</ul>
 <br/>
 <br/>
 **Libraries and Frameworks**
-<br/>
-+ jQuery
-<br/>
-+ Bootstrap 4
-<!---->
-
+<ul>
+<li>jQuery</li>
+<li>Bootstrap 4</li>
+</ul>
 <br/>
 <br/>
 **Tools**
