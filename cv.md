@@ -66,27 +66,27 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 }());
 ```
 ## Work experiense ##
-**Terminal** - комплексные услуги грузовых перевозок по всему миру
+**Terminal** - comprehensive cargo transportation service around the world
 <br/>
-Адаптивная вёрстка LandingPage
+Adaptive layout LandingPage
 <br/>
 `HTML`   `SASS`   `JavaScript/jQuery`   `AOS.js`   `slick-carousel`   `jQuery-validator`   `intl-tel-input`   `Bower`   `BEM`   `Textolite`
 <br/>
 [https://tt.ink](https://tt.ink)
 <br/>
 <br/>
-**Karton Wedding** - Свадебное агентство
+**Karton Wedding** - wedding agency
 <br/>
-Адаптивная вёрстка страницы / Посадка на MODX
+Adaptive layout page / Boarding on  MODX
 <br/>
 `HTML`   `SASS`   `JavaScript/jQuery`   `slick-carousel`   `Bower`   `BEM`   `MODX`
 <br/>
 [https://karton-wedding.ru](https://karton-wedding.ru/organizaciya-svadeb)
 <br/>
 <br/>
-**Academium** - медицинский центр репродуктивного здоровья
+**Academium** - Medical Center for Reproductive Health
 <br>
-Адаптивная вёрстка / Посадка на MODX
+Adaptive layout / Boarding on MODX
 <br/>
 `HTML`   `SASS`   `JavaScript/jQuery`   `slick-carousel`   `fancybox.js`   `air-datepicker.js`   `Bower`   `BEM`   `MODX`
 <br>
@@ -94,5 +94,5 @@ Due to the fact that my profession has ceased to be interesting to me, I decided
 ## Education ##
 2021 - **RS School JS Stage#0:** Now
 <br/>
-2020 - **WEBDEV SUMMIT:** [Certificate](https//i.imgur.com/DNLS5qK.png)
+2020 - **WEBDEV SUMMIT:** [Certificate](https//radical.ru/lfp/c.radical.ru/c38/2107/93/d38a9500ffe8.png/hlm)
 
