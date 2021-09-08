@@ -12,8 +12,37 @@
     <title>Resume</title>
 </head>
 <body>
+    <header class="header">
+        <div class="header-container">
+            <nav class="header-navigation">
+                <ul class="header-list">
+                    <li class="header-list__item">
+                        <a href="#about">About Me</a>
+                    </li>
+                    <li class="header-list__item">
+                        <a href="#contact">Contact</a>
+                    </li>
+                    <li class="header-list__item">
+                        <a href="#skill">Skills</a>
+                    </li>
+                    <li class="header-list__item">
+                        <a href="#code">Sample code</a>
+                    </li>
+                    <li class="header-list__item">
+                        <a href="#work">Work experiense</a>
+                    </li>
+                    <li class="header-list__item">
+                        <a href="#education">Education</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="header-burger">
+                <span></span>
+            </div>
+        </div>
+    </header>
     <main>
-        <section class="about">
+        <section class="about section" id="about">
             <div class="container">
                 <h1>Resume</h1>
                 <h2>About Me</h2>
@@ -47,32 +76,32 @@
                 </div>
             </div>
         </section>
-        <section class="contact">
+        <section class="contact section" id="contact">
             <div class="container">
                 <h2>Contact</h2>
                 <div class="contact-block">
                     <ul class="contact-list">
                         <li class="contact-list__item">
                             <p class="contact-list__name">Gmail</p>
-                            <a href="mailto:volkov99.at@gmail.com" class="contact-list__data">volkov99.at@gmail.com</a>
+                            <a href="mailto:volkov99.at@gmail.com" target="__blank" class="contact-list__data">volkov99.at@gmail.com</a>
                         </li>
                         <li class="contact-list__item">
                             <p class="contact-list__name">Telegram</p>
-                            <a href="https://t.me/volkov_99" class="contact-list__data">https://t.me/volkov_99</a>
+                            <a href="https://t.me/volkov_99" target="__blank" class="contact-list__data">https://t.me/volkov_99</a>
                         </li>
                         <li class="contact-list__item">
                             <p class="contact-list__name">Instagram</p>
-                            <a href="https://instagram.com/_holanad_" class="contact-list__data">https://instagram.com/_holanad_</a>
+                            <a href="https://instagram.com/_holanad_" target="__blank" class="contact-list__data">https://instagram.com/_holanad_</a>
                         </li>
                         <li class="contact-list__item">
                             <p class="contact-list__name">VK</p>
-                            <a href="https://vk.com/holanad" class="contact-list__data">https://vk.com/holanad</a>
+                            <a href="https://vk.com/holanad" target="__blank" class="contact-list__data">https://vk.com/holanad</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </section>
-        <section class="skill">
+        <section class="skill section" id="skill">
             <div class="container">
                 <h2>Skills</h2>
                 <div class="skill-block">
@@ -121,7 +150,7 @@
                 </div>
             </div>
         </section>
-        <section class="code">
+        <section class="code section" id="code">
             <div class="container">
                 <h2>Sample code</h2>
                 <div class="code-block">
@@ -142,15 +171,15 @@
                 </div>
             </div>
         </section>
-        <section class="work">
+        <section class="work section" id="work">
             <div class="container">
                 <h2>Work experiense</h2>
                 <div class="work-block">
                     <div class="work-item">
                         <div class="work-item__main">
-                            <div class="work-item__image">
+                            <a href="https://tt.ink" target="__blank" class="work-item__image">
                                 <img src="assets/img/terminal.png" alt="project-img">
-                            </div>
+                            </a>
                             <div class="work-item-tehnology">
                                 <p class="work-item-tehnology__item">HTML</p>
                                 <p class="work-item-tehnology__item">CSS/SASS</p>
@@ -168,14 +197,14 @@
                             <p class="work-item__title">
                             <span>Terminal</span> - comprehensive cargo transportation service around the world</p>
                             <p class="work-item__description">Adaptive layout LandingPage</p>
-                            <a href="https://tt.ink" class="work-item__link">https://tt.ink</a>
+                            <a href="https://tt.ink" target="__blank" class="work-item__link">https://tt.ink</a>
                         </div>
                     </div>
                     <div class="work-item">
                         <div class="work-item__main">
-                            <div class="work-item__image">
+                            <a href="https://karton-wedding.ru/organizaciya-svadeb/" target="__blank" class="work-item__image">
                                 <img src="assets/img/karton.png" alt="project-img">
-                            </div>
+                            </a>
                             <div class="work-item-tehnology">
                                 <p class="work-item-tehnology__item">HTML</p>
                                 <p class="work-item-tehnology__item">CSS/SASS</p>
@@ -190,14 +219,14 @@
                             <p class="work-item__title">
                             <span>Karton Wedding</span> - organization of turnkey weddings</p>
                             <p class="work-item__description">Adaptive layout page / Boarding on MODX</p>
-                            <a href="https://karton-wedding.ru/organizaciya-svadeb/" class="work-item__link">https://karton-wedding.ru/organizaciya-svadeb/</a>
+                            <a href="https://karton-wedding.ru/organizaciya-svadeb/" target="__blank" class="work-item__link">https://karton-wedding.ru/organizaciya-svadeb/</a>
                         </div>
                     </div>
                     <div class="work-item">
                         <div class="work-item__main">
-                            <div class="work-item__image">
+                            <a href="https://academium-ivf.net/" target="__blank" class="work-item__image">
                                 <img src="assets/img/academium.png" alt="project-img">
-                            </div>
+                            </a>
                             <div class="work-item-tehnology">
                                 <p class="work-item-tehnology__item">HTML</p>
                                 <p class="work-item-tehnology__item">CSS/SASS</p>
@@ -215,13 +244,13 @@
                             <p class="work-item__title">
                             <span>Terminal</span> - Medical Center for Reproductive Health</p>
                             <p class="work-item__description">Adaptive layout / Boarding on MODX</p>
-                            <a href="https://academium-ivf.net/" class="work-item__link">https://academium-ivf.net/</a>
+                            <a href="https://academium-ivf.net/" target="__blank" class="work-item__link">https://academium-ivf.net/</a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="education">
+        <section class="education section" id="education">
             <div class="container">
                 <h2>Education</h2>
                 <ul class="education-list">
@@ -244,13 +273,13 @@
         <div class="container">
             <div class="footer-block">
                 <div class="footer-github">
-                   <a href="https://github.com/Holanad">
+                   <a target="__blank" href="https://github.com/Holanad">
                     <img src="assets/img/github.svg" alt="github">
                 </a>
                 </div>
                 <p>2021</p>
                 <div class="footer-rs">
-                    <a href="https://rs.school/js/">
+                    <a target="__blank" href="https://rs.school/js/">
                         <img src="assets/img/rs_school_js.svg" alt="rs-school">
                     </a>
                 </div>
@@ -259,5 +288,6 @@
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 </html>
